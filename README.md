@@ -2,9 +2,9 @@
 I am a CS student and quick learner equipped for fast-paced work and changing daily needs. Has a hard-working approach with attention to detail. Seeks oppurtunities to go beyond basics,improve processes and increase customer satisfaction.
 
 ### Areas of Experties
-- Web Development (php,MERN,js)
+- Web Development (php,MERN,vue,js)
 - Mobile Application Development (React-native)
-- Machine learning
+- Machine learning / AI
 - Wordpress
 
 <!--
